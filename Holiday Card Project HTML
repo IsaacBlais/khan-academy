@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+        <style> 
+        
+        background {
+            
+            color:blue;
+        }
+            
+            h2 {
+                
+                color:red;
+            }
+            
+            h1 {
+                
+                color:red;
+            }
+            
+        </style>
+    </head>
+    <body>
+
+        <h1>Happy Holidays</h1>
+        
+        <h2>Dear Kyle,</h2>
+            
+        <p>I'm wishing you a merry christmas and happy new year from down here in the Caribbean. I hope school is treating you well. I'm currently sun taning on the beach and having a great time doing activities such as swimming in the majestic waters of the Carribean. Have a good winter, buddy.</p>
+        
+        <h2>Sincerely, your homie Isaac</h2>
+        
+        <img src="https://www.kasandbox.org/programming-images/seasonal/hopper-elfer.png">
+        
+        </body>
+        
+        </html>
